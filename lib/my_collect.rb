@@ -5,5 +5,6 @@ def my_collect(array)
     if a.length === 1
       return a[0].uppcase
     end
+    a[0]
   }
 end

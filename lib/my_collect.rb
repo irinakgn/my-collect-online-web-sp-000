@@ -4,7 +4,9 @@ def my_collect(array)
     a = e.split(' ')
     if a.length === 1
        a[0].upcase
+     else
+       a[0]
     end
-    a[0]
+
   }
 end
